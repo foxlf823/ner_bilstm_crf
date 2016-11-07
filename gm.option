@@ -1,0 +1,14 @@
+wordCutOff = 0
+maxIter = 300
+adaAlpha = 0.03
+dropProb = 0
+wordEmbSize = 20
+otherEmbSize = 10
+rnnHiddenSize = 20
+hiddenSize = 20
+evalPerIter = 1
+wordEmbFineTune = true
+verboseIter = 1
+embFile = 
+abbrPath = /home/fox/data/common_english_abbr_20160526.txt
+puncPath = /home/fox/data/english_punctuation.txt

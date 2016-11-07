@@ -1,0 +1,12 @@
+wordCutOff = 0
+maxIter = 50
+adaAlpha = 0.03
+dropProb = 0
+wordEmbSize = 50
+otherEmbSize = 10
+rnnHiddenSize = 50
+hiddenSize = 50
+evalPerIter = 1
+wordEmbFineTune = true
+verboseIter = 1
+embFile = 
